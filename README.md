@@ -120,4 +120,7 @@ Jika pilihan tidak valid, pesan error akan ditampilkan.
 
 ![praktikum6](https://github.com/user-attachments/assets/8d087101-8e45-4dd5-a7df-147060bc15ce)
 
+12. ini class diagramnya
+
+
 Oke cukup sekian, jika ada kata-kata yang salah itu dari saya dan yang benar dari Tuhan Yang Maha Esa. Terima kasih
